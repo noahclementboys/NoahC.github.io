@@ -8,7 +8,7 @@
 </head>
 <body>
     <h2>Welcome to Noah Clement's CIT minor main page!</h2>
-    <p>Below is a list of all projects and labs done in CIT 281 this term, with links to each repository. There you can find breif descriptions and code for each Project/Lab</p>
+    <p>Below is a list of all projects and labs done in CIT 281 this term, with links to each repository. There you can find brief descriptions and code for each Project/Lab</p>
     <ol>
         <li>Lab 1 </li>
         <li>Project 1</li>
