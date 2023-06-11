@@ -19,12 +19,12 @@
         <li>Project 3: https://github.com/noahclementboys/CIT281-Project3.git </li>
         <li>Lab 5:  https://github.com/noahclementboys/CIT281-Lab5.git</li>
         <li>Project 4:  https://github.com/noahclementboys/CIT281-Project4.git</li>
-        <li>Project 5:  </li>
-        <li>Lab 6</li>
-        <li>Lab 7</li>
-        <li>Project 6</li>
-        <li>Lab 8</li>
-        <li>Lab 9</li>
+        <li>Project 5:  https://github.com/noahclementboys/CIT281-Project5.git</li>
+        <li>Lab 6:  https://github.com/noahclementboys/CIT281-Lab6.git</li>
+        <li>Lab 7:  https://github.com/noahclementboys/CIT281-Lab7.git</li>
+        <li>Project 6:  https://github.com/noahclementboys/CIT281-Project6.git</li>
+        <li>Lab 8:  https://github.com/noahclementboys/CIT281-Lab8.git</li>
+        <li>Lab 9: https://github.com/noahclementboys/CIT281-Lab9.git</li>
         <li>Project 7: This is project 7.</li>
     </ol>
     
